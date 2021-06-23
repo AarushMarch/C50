@@ -1,0 +1,12 @@
+h1{
+    color:#ff0000;
+}
+*{
+    border:solid;
+}
+.header{
+    background-color: darkcyan;
+    display:flex;
+    justify-content: center;
+
+}
